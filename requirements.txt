@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn>=0.29
+telethon>=1.36
+python-dotenv>=1.0
+itsdangerous>=2.1
